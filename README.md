@@ -1,6 +1,6 @@
 # flashchat
 
-A new Flutter project.
+A chat based fluttter application. UI/x for a simple chat messenger application.
 
 ## Getting Started
 
